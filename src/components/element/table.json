@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_element_tables",
+  "info": {
+    "displayName": "table",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Type": {
+      "type": "string"
+    },
+    "Target": {
+      "type": "integer"
+    },
+    "Achievement": {
+      "type": "integer"
+    },
+    "AchievementPersent": {
+      "type": "string"
+    }
+  }
+}

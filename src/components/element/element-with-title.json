@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_element_element_with_titles",
+  "info": {
+    "displayName": "elementWithTitle"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "subheading": {
+      "type": "text"
+    },
+    "subSection": {
+      "type": "string"
+    }
+  }
+}

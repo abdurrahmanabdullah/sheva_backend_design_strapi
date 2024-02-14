@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_consultancy_service_consultancy_services",
+  "info": {
+    "displayName": "Consultancy Service",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "uid": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "kind": "collectionType",
+  "collectionName": "menu_elements",
+  "info": {
+    "singularName": "menu-element",
+    "pluralName": "menu-elements",
+    "displayName": "menu element",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ourWork": {
+      "type": "dynamiczone",
+      "components": [
+        "content.content",
+        "partnership-program.day-care",
+        "day-care.day-care",
+        "consultancy-service.consultancy-service",
+        "other-program.other-program"
+      ]
+    },
+    "Slug": {
+      "type": "uid"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_day_care_day_cares",
+  "info": {
+    "displayName": "Day Care",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "uid": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

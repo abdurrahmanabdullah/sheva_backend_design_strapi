@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_other_program_other_programs",
+  "info": {
+    "displayName": "Other Program",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "uid": {
+      "type": "string"
+    },
+    "element1": {
+      "type": "component",
+      "repeatable": true,
+      "component": "element.elements"
+    },
+    "table": {
+      "type": "component",
+      "repeatable": true,
+      "component": "element.table"
+    },
+    "element2": {
+      "type": "component",
+      "repeatable": false,
+      "component": "element.element-with-title"
+    },
+    "list": {
+      "type": "component",
+      "repeatable": true,
+      "component": "list.list"
+    },
+    "element3": {
+      "type": "component",
+      "repeatable": true,
+      "component": "element.elements"
+    }
+  }
+}
